@@ -11,7 +11,7 @@
 .. toctree::
    :maxdepth: 2
 
-   first-step
+   first-login
    callcenter
    callflows
    ivr
